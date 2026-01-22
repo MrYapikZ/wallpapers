@@ -1,9 +1,12 @@
 ### Wallpapers
 Personal wallpaper collection sourced from the internet. No ownership or credit is claimed.
 
-### Top Wallpaper
-#### 16:9
-![women-with-shades-flower-in-hair-vaporwave-qz.jpg)](./Horizontal/women-with-shades-flower-in-hair-vaporwave-qz.jpg)
+### Preview
+#### Wide
+![1323578.png](./Horizontal/1323578.png)
+![mlzoy1.png](./Horizontal/mlzoy1.png)
+![women-with-shades-flower-in-hair-vaporwave-qz.jpg](./Horizontal/women-with-shades-flower-in-hair-vaporwave-qz.jpg)
+![xeze5z.png](./Horizontal/xeze5z.png)
 
 ### Source
 - [r/unixporn - the home for \*NIX customization!](https://www.reddit.com/r/unixporn/)
