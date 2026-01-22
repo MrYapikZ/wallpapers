@@ -1,4 +1,4 @@
-import os
+import subprocess
 from pathlib import Path
 from typing import Dict, List
 
@@ -74,5 +74,28 @@ def update_readme():
     print("README.md updated (scalable mode).")
 
 
+def run_git_commands():
+    commands = [
+        ["git", "add", "."],
+        ["git", "commit", "-m", "up"],
+        ["git", "push"],
+    ]
+
+    for cmd in commands:
+        result = subprocess.run(
+            cmd,
+            stdout=subprocess.PIPE,
+            stderr=subprocess.PIPE,
+            text=True,
+        )
+
+        if result.returncode != 0:
+            raise RuntimeError(f"Command failed: {' '.join(cmd)}\n{result.stderr}")
+
+        if result.stdout.strip():
+            print(result.stdout.strip())
+
+
 if __name__ == "__main__":
     update_readme()
+    run_git_commands()
