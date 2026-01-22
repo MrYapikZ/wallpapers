@@ -14,17 +14,19 @@ Personal wallpaper collection sourced from the internet. No ownership or credit 
 ![138164684_p0.jpg](./Horizontal/138164684_p0.jpg)
 ![1387268.jpg](./Horizontal/1387268.jpg)
 ![246223.jpg](./Horizontal/246223.jpg)
+![3q3yrv.jpg](./Horizontal/3q3yrv.jpg)
 ![6d1jk6.jpg](./Horizontal/6d1jk6.jpg)
 ![863306.jpg](./Horizontal/863306.jpg)
 ![cat28.jpg](./Horizontal/cat28.jpg)
+![e83pzk.jpg](./Horizontal/e83pzk.jpg)
 ![e83r9o.jpg](./Horizontal/e83r9o.jpg)
 ![Kita.png](./Horizontal/Kita.png)
 ![mlzoy1.png](./Horizontal/mlzoy1.png)
-![women-with-shades-flower-in-hair-vaporwave-qz.jpg](./Horizontal/women-with-shades-flower-in-hair-vaporwave-qz.jpg)
-![xeze5z.png](./Horizontal/xeze5z.png)
+![qrjvrr.jpg](./Horizontal/qrjvrr.jpg)
 
 #### Potrait
 ![9oz5yd.jpg](./Vertical/9oz5yd.jpg)
+![k8zrgq.jpg](./Vertical/k8zrgq.jpg)
 ![lyzrxy.jpg](./Vertical/lyzrxy.jpg)
 ![xez35v.jpg](./Vertical/xez35v.jpg)
 
